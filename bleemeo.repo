@@ -1,0 +1,13 @@
+[bleemeo-agent-repo]
+name=Bleemeo Agent repository
+baseurl=http://packages.bleemeo.com/bleemeo-agent/centos/7/x86_64
+enabled=1
+gpgcheck=0
+gpgkey=https://packages.bleemeo.com/bleemeo-agent/centos/gpg
+
+[bleemeo-telegraf-repo]
+name=Bleemeo Agent repository
+baseurl=http://packages.bleemeo.com/bleemeo-agent/centos/7/x86_64
+enabled=1
+gpgcheck=0
+gpgkey=https://packages.bleemeo.com/bleemeo-agent/centos/gpg
